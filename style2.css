@@ -1,0 +1,40 @@
+.a{
+    text-align: center;
+}
+
+nav{
+    background-color: blue;
+    margin: 20px 0px;
+    text-align: center;
+    padding: 20px 0px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding-right: 60px;
+    font-family: system-ui;
+}
+.d{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding: 10px 25px;
+    font-family: system-ui;
+}
+
+footer{
+    border-top: dotted;
+}
+main{
+    font-family: Arial;
+    text-align: justify;
+}
+table{
+    border-collapse: collapse;
+}
+tr{
+    border: 1px solid blue;
+}
+p{
+    font-size: 20px;
+}
